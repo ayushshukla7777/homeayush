@@ -1,0 +1,16 @@
+root:x:0:supersaiyan
+sys:x:3:bin,notsupersaiyan
+network:x:90:notsupersaiyan
+power:x:98:notsupersaiyan
+adm:x:999:notsupersaiyan
+wheel:x:998:notsupersaiyan
+uucp:x:987:notsupersaiyan
+optical:x:990:notsupersaiyan
+rfkill:x:983:notsupersaiyan
+video:x:986:notsupersaiyan
+storage:x:988:notsupersaiyan
+audio:x:995:notsupersaiyan
+users:x:985:notsupersaiyan
+nopasswdlogin:x:966:notsupersaiyan
+autologin:x:967:notsupersaiyan
+notsupersaiyan:x:1000:
