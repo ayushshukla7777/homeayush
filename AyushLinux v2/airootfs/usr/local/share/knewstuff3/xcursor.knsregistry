@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Win7Build-cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1436673</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>83131</downloads>
+  <installedfile>/home/ayush/.icons/Win7Bulid-cursors/*</installedfile>
+  <id>1436673</id>
+  <releasedate>2020-10-21</releasedate>
+  <summary>Win7Build cursors for linux desktops</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1436673/cb0bcc34d89de6a5cb717b3d3795053046ac6251f8e76834ba045a41f4297d95b54a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1436673/cb0bcc34d89de6a5cb717b3d3795053046ac6251f8e76834ba045a41f4297d95b54a.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyODQ4NzUiLCJvIjoiMSIsInMiOiIxM2M4ZGU4NzRhNjZmMDE1ZjliNmRjNzgwMTEyOTAxZmM3MTM2MjVlMDY2YWRlN2ExZTJlZjkxY2ZmNWY0OTk4NzRkM2EzYmI1M2M3NDc4ZmJjNmQzYzU3YzRkOWVkOTBiYjIyMjFlOTE4OTE1NDIxNzk3M2ZmY2U3YzNhN2JiYyIsInQiOjE2OTg5ODA3MzEsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.Ce1KKUX8T5F5UfYrAplEV8GcvxRflF5GtPlFzfCgN8g/Win7Bulid-cursors.tar.gz</payload>
+  <tags>gplv3,cursor,original-product,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Sweet cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393084</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>554736</downloads>
+  <installedfile>/home/ayush/.icons/Sweet-cursors/*</installedfile>
+  <id>1393084</id>
+  <releasedate>2020-06-12</releasedate>
+  <summary>Cursor theme with some gradients to fit my sweet themes, based on breeze</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1393084/c90e248bf7a72a4ec8aaec653db520630cca.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTE5OTM4NTUiLCJvIjoiMSIsInMiOiJjY2JkZmMzNWYwYjQ3OTYzOTk5ZTcyMzM5OGZiOTllMThiNTc0MmJiZjQ1MmIwZjIxOWNlYjNjYjljNGQ0OWJiNTI2ZWUwODY4MDc4ZmNiMzRlNmExM2M0NzA0MDc2MTZiMGE2ZWYzYmUyMGY5NGJlYTA4ZDk4MDVhNTRkMjFkYyIsInQiOjE2OTQ4Mzc2MDgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.53Q8V1G6JXbKcDd6qeCMDUF5H78LFoD4fKdPRkSCup8/Sweet-cursors.tar.xz</payload>
+  <tags>unix,linux,gplv3,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=inode-directory
+Name=archiso1
+Type=Link
+URL[$e]=file:$HOME/Desktop/archiso1
+X-KDE-LastOpenedWith=org.kde.dolphin

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>We10X icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1366371</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>2746</downloads>
+  <installedfile>/home/ayush/.local/share/icons/We10X-black/*</installedfile>
+  <installedfile>/home/ayush/.local/share/icons/We10X-black-dark/*</installedfile>
+  <id>1366371</id>
+  <releasedate>2023-09-11</releasedate>
+  <summary>&lt;strong>We10X Icon Theme&lt;/strong>&lt;br />
+A colorful Design icon theme for linux desktops&lt;br />
+------------------------------&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong>Win7OS Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1394310/" target="_blank" rel="nofollow">https://www.pling.com/p/1394310/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win7Explore Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1433691/" target="_blank" rel="nofollow">https://www.pling.com/p/1433691/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win10OS Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1383080/" target="_blank" rel="nofollow">https://www.pling.com/p/1383080/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>We10XOS Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1368860/" target="_blank" rel="nofollow">https://www.pling.com/p/1368860/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>WinConceptOSWT Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1377763/" target="_blank" rel="nofollow">https://www.pling.com/p/1377763/&lt;/a>&lt;br />
+------------------------------&lt;br />
+Thank you all for love, the other icons I will follow the same style to design</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1366371/72535606a8da5bb490a2749b5f294cf5bdaf.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1366371/72535606a8da5bb490a2749b5f294cf5bdaf.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ0NTM3MzMiLCJvIjoiMSIsInMiOiJhZGQwMmQ1OGIwMGQ0NGIxN2Y1Yjg0YWQ4MDE5ZTk1MGM5N2RiNzIzNGZhNDNiODIyMDNkNTcwMGY5ODdiNTRjNDhkZDE4YmExYjdmZWI5NmU5Y2NiYjkzZTE1ODMyZmMxNTAyYjBiZmIxYzQ5ZmRmMTBiMDU5NzBhZGYxZGI5MiIsInQiOjE2OTQ4Mzc1NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.myZo9CVoj78uLZURqFGpvrx4lq9bstw9MZxCKpjmkLM/We10X-black.tar.xz</payload>
+  <tags>linux,icon-theme,gplv3,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Ant-dark folders</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1640981</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>46165</downloads>
+  <installedfile>/home/ayush/.local/share/icons/Ant-Dark/*</installedfile>
+  <id>1640981</id>
+  <releasedate>2021-11-12</releasedate>
+  <summary>Folders icons for &lt;a href="https://www.pling.com/p/1464332/" target="_blank" rel="nofollow">Ant-dark KDE theme&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Important&lt;/strong>&lt;br />
+&lt;br />
+These files only contain the folders icons, to complement it just edit the index.theme file and define the "inherits" key with your favorite icon theme e.g:&lt;br />
+&lt;br />
+&lt;code>&lt;span style="color: #000000">
+Inherits=your-favorite-icon-theme,ubuntu-mono-dark,Mint-X,elementary,gnome,hicolor&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;strong>Note&lt;/strong>&lt;br />
+It is recommended to complement this folders with &lt;a href="https://store.kde.org/p/1340791" target="_blank" rel="nofollow">Reversal dark icons&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1640981/b927b8a20098bbf2ed222ff825e72df9b952129303d55db7ab7609476020a0e899371.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1640981/b927b8a20098bbf2ed222ff825e72df9b952129303d55db7ab7609476020a0e899371.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY3NTM3MjMiLCJvIjoiMSIsInMiOiIzMjY4YzNiN2E5MTNhNjc0ZDNiZGI0ODI5ZTM1OWZkOGM5NTdmNWQ5ZjAyZjBlMDlmZThhNzk0YWQ1Y2U2MDZlYmVjMTJlZTMxOThhNDA0NGUzNTJhMjRlNGM2ZGNkODI1NzNjODk1MzNkNjQ2YWJjYjZkNmIxNDZjZjU0MTJhMCIsInQiOjE2OTg5ODA4MTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU2LjE3MiJ9.xgibFplaWZjqqa0vC3w5BVuhbfp_KJC1m7rqDlE8FXg/Ant-Dark.tar.xz</payload>
+  <tags>unix,linux,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Candy icons</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1305251</homepage>
+  <licence></licence>
+  <version>0.6.4</version>
+  <rating>94</rating>
+  <downloads>7277</downloads>
+  <installedfile>/home/ayush/.local/share/icons/candy-icons/*</installedfile>
+  <id>1305251</id>
+  <releasedate>2023-09-11</releasedate>
+  <summary>Sweet gradient icon theme originally created to fit my &lt;a href="https://www.gnome-look.org/p/1253385/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+&lt;h1>&lt;span style="color: red;">&lt;strong>¡IMPORTANT!&lt;/strong>&lt;/span> &lt;/h1>&lt;br />
+&lt;h3>&lt;strong> Recently this and my other themes have been attacked by a crazy number of fake accounts(you can see them below) giving massive downvotes trying to defame those themes, &lt;a href="https://forum.opendesktop.org/t/unusual-low-ratings-in-products/20676" target="_blank" rel="nofollow">that situation has already been reported&lt;/a> and hopefully a solution will be found, Thanks for your support :)&lt;/strong>&lt;/h3>&lt;br />
+&lt;br />
+If you want you can combine them with any of the options provided in &lt;a href="https://www.opendesktop.org/p/1284047/" target="_blank" rel="nofollow">sweet-folders&lt;/a> as shown in the second screenshot&lt;br />
+&lt;br />
+&lt;strong>Note&lt;/strong>&lt;br />
+&lt;br />
+To request for icons please &lt;a href="https://github.com/EliverLara/candy-icons/issues" target="_blank" rel="nofollow">open an issue&lt;/a> on github, or if you want to contribute open a &lt;a href="https://github.com/EliverLara/candy-icons/pulls" target="_blank" rel="nofollow">pull request&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1305251/4312748331a5528be7ec2f64b811c6c96259.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ0NzU1MzUiLCJvIjoiMSIsInMiOiIwMTM0NjRjMmRjYmY3MWY4ZDgwMDY1ZTVlNzc0OGNjMmZmYmM0MTM3YjYxMGJmNWI3NGI5YjZjNjc0ODgxYzg4YjMyYWM4YTc0YjdhYWRiOTBmMTdlYWI1ZjA0Y2I1OGZkZDc5MTlmNWI4YmY2OGZhODJiZDAyNzBkODc4NmExMCIsInQiOjE2OTQ4Mzc1NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.WFF06AFxsX9Pi2s4QpASLsICkizGiQ4dEEKASRfh7As/candy-icons.tar.xz</payload>
+  <tags>icon-theme,gplv3,unix,linux,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>windows-eleven</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1977340</homepage>
+  <licence></licence>
+  <version>2.4.1</version>
+  <rating>58</rating>
+  <downloads>1583</downloads>
+  <installedfile>/home/ayush/.local/share/icons/Windows-Eleven/*</installedfile>
+  <id>1977340</id>
+  <releasedate>2023-11-01</releasedate>
+  <summary>win 11 based icon set by yeyushengfan258 and Eleven-icon-theme by kuroe-hanako, inspired by original microsoft windows 11 icons,&lt;br />
+&lt;br />
+I recommend its use with the windows 11 themes of kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1977340/screenshot-20230126-004916.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1977340/screenshot-20230126-004916.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTg4Nzc0MTciLCJvIjoiMSIsInMiOiJiZDRhNDlhODUyNWQwYzk1MzI4YjhmMzZmMzA1NWVhNGY2NzcyMWZiZWYyNDk1MjVlNzdhODQyMTM2ZGM0NTUxZTNmYWQyOTRkZDMzNWIxMjMxYTI5OGNjOGZlODg2ZDZlYjE2YjUxZGYzY2NhYTc5ZjBhYmRkZjQ5MmFjMTlkZCIsInQiOjE2OTg5ODA3MTYsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.hDdgzyxrOZ1sAwkTvhN81mIPcg-iYCUQ81iWi9prVr8/Windows-Eleven.tar.xz</payload>
+  <tags>efi,agplv3,unix,linux,icon-theme</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

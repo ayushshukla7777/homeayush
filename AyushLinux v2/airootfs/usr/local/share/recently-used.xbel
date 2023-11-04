@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/ayush/Desktop/archiso1" added="2023-11-03T07:29:38.868000Z" modified="2023-11-03T07:29:38.868000Z" visited="2023-11-03T07:29:38.868000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-11-03T07:29:38.868000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/todays%20work" added="2023-11-03T02:21:09.219000Z" modified="2023-11-03T02:21:09.219000Z" visited="2023-11-03T02:21:09.219000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kwrite" exec="kwrite %U %u" modified="2023-11-03T02:21:09.219000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/Downloads/code-stable-x64-1698838111.tar.gz" added="2023-11-03T02:49:34.328089Z" modified="2023-11-03T02:49:58.904000Z" visited="2023-11-03T02:49:58.904000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2023-11-03T02:49:34.328095Z" count="1"/>
+        <bookmark:application name="" exec="dolphin %u" modified="2023-11-03T02:49:53.527000Z" count="1"/>
+        <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-11-03T02:49:58.904000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/Downloads/vs%20code" added="2023-11-03T02:50:35.563000Z" modified="2023-11-03T02:50:35.563000Z" visited="2023-11-03T02:50:35.563000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2023-11-03T02:50:35.563000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/Downloads" added="2023-11-03T02:50:40.225000Z" modified="2023-11-03T02:50:40.225000Z" visited="2023-11-03T02:50:40.225000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-11-03T02:50:40.225000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/Desktop/AyushLinux/archiso/configs" added="2023-11-03T03:47:51.888000Z" modified="2023-11-03T03:47:51.888000Z" visited="2023-11-03T03:47:51.888000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2023-11-03T03:47:51.888000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:37111/signin?nonce=UdOHwAuChF6uVJV5RbaMxA==" added="2023-11-03T04:07:39.276000Z" modified="2023-11-03T04:07:39.276000Z" visited="2023-11-03T04:07:39.276000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-11-03T04:07:39.276000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Da890395f2856e295%2526windowId%253D3" added="2023-11-03T04:09:24.444000Z" modified="2023-11-03T04:09:24.444000Z" visited="2023-11-03T04:09:24.444000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-11-03T04:09:24.444000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=a890395f2856e295&amp;windowId=3&amp;code=e3986b94125e5b525369&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Da890395f2856e295%2526windowId%253D3" added="2023-11-03T04:09:33.161000Z" modified="2023-11-03T04:09:33.161000Z" visited="2023-11-03T04:09:33.161000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="/usr/bin/code --open-url %U %u" modified="2023-11-03T04:09:33.161000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=read:org+user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253D991a9596dedae7fa%2526windowId%253D3" added="2023-11-03T04:11:28.514000Z" modified="2023-11-03T04:11:28.514000Z" visited="2023-11-03T04:11:28.514000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-11-03T04:11:28.514000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=991a9596dedae7fa&amp;windowId=3&amp;code=e7149f4be322f415089e&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253D991a9596dedae7fa%2526windowId%253D3" added="2023-11-03T04:11:30.555000Z" modified="2023-11-03T04:11:30.555000Z" visited="2023-11-03T04:11:30.555000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="/usr/bin/code --open-url %U %u" modified="2023-11-03T04:11:30.555000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:36997/signin?nonce=bRPVQG3YKDiu3GJHUepANg==" added="2023-11-03T04:12:10.849000Z" modified="2023-11-03T04:12:10.849000Z" visited="2023-11-03T04:12:10.849000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-11-03T04:12:10.849000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dc091b4d3d536533e%2526windowId%253D1" added="2023-11-03T04:15:21.756000Z" modified="2023-11-03T04:15:21.756000Z" visited="2023-11-03T04:15:21.756000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2023-11-03T04:15:21.756000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=c091b4d3d536533e&amp;windowId=1&amp;code=d178cf0ca4bd10ec5755&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dc091b4d3d536533e%2526windowId%253D1" added="2023-11-03T04:15:23.464000Z" modified="2023-11-03T04:15:23.464000Z" visited="2023-11-03T04:15:23.464000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="/usr/bin/code --open-url %U %u" modified="2023-11-03T04:15:23.464000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2023-11-03T04:35:01.085000Z" modified="2023-11-03T04:35:01.085000Z" visited="2023-11-03T04:35:01.085000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kfind" exec="kfind %u %u" modified="2023-11-03T04:35:01.085000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush/.local/share/plasma/desktoptheme/Windows-Eleven-Dark" added="2023-11-03T04:35:58.256000Z" modified="2023-11-03T04:35:58.256000Z" visited="2023-11-03T04:35:58.256000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-11-03T04:35:58.256000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ayush" added="2023-11-03T04:40:55.010000Z" modified="2023-11-03T04:40:55.010000Z" visited="2023-11-03T04:40:55.010000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2023-11-03T04:40:55.010000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

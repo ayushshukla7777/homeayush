@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="101">
+  <name>windows 11 dark sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2053613</homepage>
+  <licence></licence>
+  <version>0.2.4</version>
+  <rating>50</rating>
+  <downloads>15566</downloads>
+  <installedfile>/tmp/Windows11-Sddm.tar.xz</installedfile>
+  <id>2053613</id>
+  <releasedate>2023-08-14</releasedate>
+  <summary>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2053613/image10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2053613/image10.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTE5Nzc3MzAiLCJvIjoiMSIsInMiOiI5ZTY5YzgzNjJjYzA1YzJjMzE1ZGM0YzM4OTIwMzk5YTNhMmZiMjFhNTUzMGYyYjZhYzU0ZmUyNGI3ODc3MmEzOWNkM2RlYmMxZWUyNjdkMzhmNjBiYjQ5NTZkMGNmODQ1YmMxOWFmNTM0ZTcwNjY4ZDYwYzg5MzE1YjUyMWRlOCIsInQiOjE2OTg5ODA3NTUsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.X_Dq75NLjhpj_DpyfG7fOpPvfSRKP08SDUdgMxrUlso/Windows11-Sddm.tar.xz</payload>
+  <tags>original-product,unix,linux,cc-by</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="101">
+  <name>Windows 12 sddm</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2060880</homepage>
+  <licence></licence>
+  <version>0.1.2</version>
+  <rating>50</rating>
+  <downloads>15168</downloads>
+  <installedfile>/tmp/Windows12-Sddm.tar.xz</installedfile>
+  <id>2060880</id>
+  <releasedate>2023-08-14</releasedate>
+  <summary>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2060880/screenshot.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2060880/screenshot.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTE5Nzc5MzAiLCJvIjoiMSIsInMiOiIxMjNhNGEyNmFmNzMwZTMwZTczY2EzYjJhMTE1OTIxMmExMjk0ZDhlZmVkZDBhZWViYTBmMDZhMTI4NzY4MjRlM2U2MzYzMTRlYjczYzRiZDA1NzdiZTQ1NTAxMDY0YWRmYjYyNWU2NjU4MDBmZDFmYzE2ZGRlMTFlZTkyMWIyNSIsInQiOjE2OTg5ODA3NjUsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.DToFRrAuebm5ZhyFPd3yCnumOcWk7AaOymxNrB_ocJg/Windows12-Sddm.tar.xz</payload>
+  <tags>cc-by,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

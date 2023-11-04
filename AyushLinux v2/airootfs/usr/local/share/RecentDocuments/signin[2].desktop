@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-html
+Name=signin
+Type=Link
+URL[$e]=http://127.0.0.1:36997/signin?nonce=bRPVQG3YKDiu3GJHUepANg==
+X-KDE-LastOpenedWith=google-chrome

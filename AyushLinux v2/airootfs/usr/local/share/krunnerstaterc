@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///usr/bin/kwrite,2 exec:///usr/bin/zapzap,1 exec:///usr/bin/blueman-manager,2 exec:///usr/lib/firefox/firefox,1 krunner_systemsettings_kcm_bluetooth,1 exec:///usr/bin/chromium,1 exec:///usr/bin/discord,2 exec:///usr/bin/VirtualBox,3 exec:///usr/bin/yakuake,1 exec:///usr/bin/systemsettings,1 exec:///usr/bin/whatsapp-for-linux,7 exec:///usr/bin/grub-customizer,1 windows_0_{ad7f536f-b916-423e-a87a-ef322c6a443e},4 exec:///usr/bin/kdeconnect-app,5 exec:///usr/bin/konsole,2 exec:///usr/bin/kitty,2 exec:///usr/bin/code --unity-launch,1 krunner_systemsettings_kcm_kwallet5,1 exec:///usr/bin/plasma-systemmonitor,3 exec://,1 exec:///usr/bin/knotes,5 krunner_systemsettings_kcm_lookandfeel
+
+[PlasmaRunnerManager][History]
+4dcf5043-45c8-40d4-999b-55065faf000f=globa,code,theme,the,grub,gr,kde,syste,ter,dis,note,boot,v,vir,connect,term,walle,what,wha,kit,wh,conn,kitt,text,sett,vs code,termi,bl,blu,fi,fire,chr,ch,termina,termin

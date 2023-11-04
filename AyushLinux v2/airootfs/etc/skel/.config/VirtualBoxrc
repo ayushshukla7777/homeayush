@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=785
+1920x1080 screen: Width=1172
+
+[KFileDialog Settings]
+Recent Files[$e]=AyushLinux-2023.09.13-x86_64.iso,file:$HOME/Desktop/archiso/releng/out/AyushLinux-2023.09.13-x86_64.iso
+Recent URLs[$e]=file:$HOME/Desktop/archiso/releng/out/,file:$HOME/Documents/
+detailViewIconSize=16

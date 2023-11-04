@@ -1,0 +1,371 @@
+[file:///etc/locale.conf]
+Bookmarks=
+Checksum=01ec548f82205efd53e4fc1be27aef47ddaee9cc
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,2,9.502
+URL=file:///etc/locale.conf
+
+[file:///etc/pacman.conf]
+Bookmarks=
+Checksum=647fdb9dd5eba75087c0b54b339585aee409e65a
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,12,27,40.343
+URL=file:///etc/pacman.conf
+
+[file:///etc/pam.d/sddm]
+Bookmarks=
+Checksum=df11003eb53ab344f46d256adbc605fc22a79b41
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,14,59,6.077
+URL=file:///etc/pam.d/sddm
+
+[file:///etc/pam.d/sddm-autologin]
+Bookmarks=
+Checksum=b42991e3814eb69b52983d040770d850adc05089
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,13,2,26.922
+URL=file:///etc/pam.d/sddm-autologin
+
+[file:///etc/pam.d/sddm-greeter]
+Bookmarks=
+Checksum=44e209e9046109b3ad9312a23bc210d5cd3486ef
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,13,2,33.664
+URL=file:///etc/pam.d/sddm-greeter
+
+[file:///etc/sddm.conf.d/dpi.conf]
+Bookmarks=
+Checksum=0352a25b9c188456a305b0e64042911349c1af4b
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,14,58,22.817
+URL=file:///etc/sddm.conf.d/dpi.conf
+
+[file:///etc/skel/.bash_logout]
+Bookmarks=
+Checksum=0e4e4f1845f2f4a355889e7cdb27f398da1b0869
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,14,55,44.733
+URL=file:///etc/skel/.bash_logout
+
+[file:///etc/skel/.bash_profile]
+Bookmarks=
+Checksum=5545f007ea9b8fac553903c9e6ecfab3cf67807d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,11,3,14,55,42.039
+URL=file:///etc/skel/.bash_profile
+
+[file:///etc/skel/.bashrc]
+Bookmarks=
+Checksum=9283825aea5233d65e5a0fb3298d42d1128461ff
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,11,3,14,55,38.582
+URL=file:///etc/skel/.bashrc
+
+[file:///home/ayush/.config/kdedefaults/kcminputrc]
+Bookmarks=
+Checksum=779b957715f90c530353e58834013f7e71fb0483
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,22.683
+URL=file:///home/ayush/.config/kdedefaults/kcminputrc
+
+[file:///home/ayush/.config/kdedefaults/kdeglobals]
+Bookmarks=
+Checksum=ed0bf10adb0a7f030d4159b99c193941d09463f5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,19.812
+URL=file:///home/ayush/.config/kdedefaults/kdeglobals
+
+[file:///home/ayush/.config/kdedefaults/kscreenlockerrc]
+Bookmarks=
+Checksum=7e949cf8c6411d364570db7a92601b6877537e1e
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,12,58.5
+URL=file:///home/ayush/.config/kdedefaults/kscreenlockerrc
+
+[file:///home/ayush/.config/kdedefaults/ksplashrc]
+Bookmarks=
+Checksum=9598a99c89d5254ea91a7e9a146c094b1f45627b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,1.6600000000000001
+URL=file:///home/ayush/.config/kdedefaults/ksplashrc
+
+[file:///home/ayush/.config/kdedefaults/kwinrc]
+Bookmarks=
+Checksum=003a225659d637b8afea19374c8cb99b0ab27530
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,7.081
+URL=file:///home/ayush/.config/kdedefaults/kwinrc
+
+[file:///home/ayush/.config/kdedefaults/package]
+Bookmarks=
+Checksum=f4ff91f2264f95bf988a23821ded3f3b8405b12b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,10.188
+URL=file:///home/ayush/.config/kdedefaults/package
+
+[file:///home/ayush/.config/kdedefaults/plasmarc]
+Bookmarks=
+Checksum=c966d8606b1e42386681ae8a7174902582337d3d
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,15,13,15.66
+URL=file:///home/ayush/.config/kdedefaults/plasmarc
+
+[file:///home/ayush/Desktop/AyushLinux/releng/airootfs/usr/local/share/Trash/files/releng copy/releng/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=0a60b06db6b5137c6fba7f96163d80c4718f521c
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,21.168
+URL=file:///home/ayush/Desktop/AyushLinux/releng/airootfs/usr/local/share/Trash/files/releng copy/releng/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/AyushLinux/releng/airootfs/usr/local/share/Trash/files/releng/releng/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=0a60b06db6b5137c6fba7f96163d80c4718f521c
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,24.818
+URL=file:///home/ayush/Desktop/AyushLinux/releng/airootfs/usr/local/share/Trash/files/releng/releng/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/archiso/releng/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=0a60b06db6b5137c6fba7f96163d80c4718f521c
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,30.896
+URL=file:///home/ayush/Desktop/archiso/releng/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/archiso1/arcade101-main/archiso/releng/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=4c1775898ccfad785d0f74cce2bb4b6e2407367d
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,34.241
+URL=file:///home/ayush/Desktop/archiso1/arcade101-main/archiso/releng/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/homeayush/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=0a60b06db6b5137c6fba7f96163d80c4718f521c
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,43.266
+URL=file:///home/ayush/Desktop/homeayush/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/homeayush/airootfs/etc/sddm.conf.d/kde_settings.conf]
+Bookmarks=
+Checksum=20bb303a02aa4799bc5a18b707f2ff9bf3b01365
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,15,0,9.672
+URL=file:///home/ayush/Desktop/homeayush/airootfs/etc/sddm.conf.d/kde_settings.conf
+
+[file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/etc/sddm.conf]
+Bookmarks=
+Checksum=0a60b06db6b5137c6fba7f96163d80c4718f521c
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,48.558
+URL=file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/etc/sddm.conf
+
+[file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/usr/lib/sysusers.d/sddm.conf]
+Bookmarks=
+Checksum=e56e07d7da869dee82d7bdf087bcdc07fd4228ba
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,3,56.85
+URL=file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/usr/lib/sysusers.d/sddm.conf
+
+[file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/usr/lib/tmpfiles.d/sddm.conf]
+Bookmarks=
+Checksum=300d646138c1760cb1255d47fb419feaf52eb925
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,11,3,13,4,1.867
+URL=file:///home/ayush/Desktop/homeayush/work/x86_64/airootfs/usr/lib/tmpfiles.d/sddm.conf
+
+[file:///home/ayush/LINUX Works]
+Bookmarks=
+Checksum=6717c67fff39a2f2fbb419d36760579297ecd670
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,13,1,41.6
+URL=file:///home/ayush/LINUX Works
+
+[file:///usr/bin/blueman-services]
+Bookmarks=
+Checksum=a8fb736384a6b5e5f409e65a16367702cccdfdf0
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2023,11,3,12,7,14.192
+URL=file:///usr/bin/blueman-services
+
+[file:///usr/bin/cvslastchange]
+Bookmarks=
+Checksum=9c4688bebc32053bc4a200074f8f9ca375757d26
+Encoding=UTF-8
+Highlighting=Perl
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Perl
+Mode Set By User=false
+Time=2023,11,3,12,7,52.439
+URL=file:///usr/bin/cvslastchange
+
+[file:///usr/lib/python3.11/__hello__.py]
+Bookmarks=
+Checksum=c09d6a4f52332e958259618fdd68d8aeb7391b21
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2023,11,3,12,16,51.884
+URL=file:///usr/lib/python3.11/__hello__.py
+
+[file:///usr/lib/python3.11/numbers.py]
+Bookmarks=
+Checksum=0985dd85f60a781603f867b7a4bede1c0b313fb1
+Encoding=UTF-8
+Highlighting=Python
+Highlighting Set By User=false
+Indentation Mode=python
+Mode=Python
+Mode Set By User=false
+Time=2023,11,3,12,17,4.116
+URL=file:///usr/lib/python3.11/numbers.py
+
+[file:///var/lib/snapd/snap/README]
+Bookmarks=
+Checksum=623c2e36303e4c5ce708023ff8e3a3ec3a7e04ad
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,11,3,12,25,28.683
+URL=file:///var/lib/snapd/snap/README

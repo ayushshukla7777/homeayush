@@ -1,0 +1,7 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.gocomics.com]
+www.gocomics.com     ""                   "/"          2325581804    0 gocomics_first_visit 7    %7B%22first_visit%22%3A%222023-09-11%22%2C%22number_of_visits%22%3A1%2C%22most_recent_visit%22%3A%222023-09-11%22%7D
+www.gocomics.com     ""                   "/"          1694516204    0 ad_channel           7    a
+www.gocomics.com     ""                   "/"          1694435573    0 smart_redirect       4    %2Fcalvinandhobbes%2F2023%2F09%2F05

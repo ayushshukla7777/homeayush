@@ -1,0 +1,8 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[GuiConfig]
+captureMode=0
+
+[Save]
+lastSaveLocation=file:///home/ayush/Pictures/Screenshot_20230912_092827.png

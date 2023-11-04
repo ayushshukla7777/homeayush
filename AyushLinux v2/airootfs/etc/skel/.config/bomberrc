@@ -1,0 +1,8 @@
+[KgTheme]
+Theme=themes/kbomber.desktop
+
+[MainWindow]
+1536x864 screen: Height=368
+1536x864 screen: Width=679
+State=AAAA/wAAAAD9AAAAAAAAAqcAAAENAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

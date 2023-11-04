@@ -1,0 +1,17 @@
+[General]
+firstStartup=false
+temperatureUnits=Celsius
+
+[WeatherLocations][0]
+index=0
+latitude=21.99509620666504
+locationName=Republic of India
+longitude=79.0010986328125
+timezone=Asia/Kolkata
+
+[WeatherLocations][1260909]
+index=1
+latitude=26.904029846191406
+locationName=Padrauna
+longitude=83.98087310791016
+timezone=Asia/Kolkata

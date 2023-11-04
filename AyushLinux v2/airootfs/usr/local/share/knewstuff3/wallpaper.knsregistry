@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>Sweet wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1309907</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>700608</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/Sweet-Wallpapers/*</installedfile>
+  <id>1309907</id>
+  <releasedate>2020-01-12</releasedate>
+  <summary>&lt;strong>wallpaper with colors that fits my &lt;a href="https://www.pling.com/p/1294729/" target="_blank" rel="nofollow">Sweet theme for plasma&lt;/a> &lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1309907/61af45fda6d673380e56166ae5fbfc315d2b1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1309907/61af45fda6d673380e56166ae5fbfc315d2b1.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzg4NjUyODYiLCJvIjoiMSIsInMiOiJhZDY4MzllNWI2YWRhM2I3ZjcxZGYxZGJiZGNhN2NmN2I3YTdkZjdhYzQxOTllNDc3MGVhMzk2YmRkNTk5MmVhYWJiNWIzMzAwZWFhODViNjQ5ODI0YWYyZTQzYjIxZTQxZDVhMWNiNWE2YTg1NjJjMjM4N2U3MmE0OGNjMDM3NCIsInQiOjE2OTQ4Mzc1NzksInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.ManCB37yJ9TvgCpZdsEymd1N7LY2mLc4LRFT9PmHzHM/Sweet-Wallpapers.tar.xz</payload>
+  <tags>plasma,original-product,cc-by-sa,artwork,kde,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>ferns</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2099238</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>4697</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/ferns/*</installedfile>
+  <id>2099238</id>
+  <releasedate>2023-10-22</releasedate>
+  <summary>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2099238/default-ferns-macro-overhead-photography-0-8ab09a35-fa70-4a87-8d2f-415761e25607-1.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2099238/default-ferns-macro-overhead-photography-0-8ab09a35-fa70-4a87-8d2f-415761e25607-1.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTgwMDkyODkiLCJvIjoiMSIsInMiOiJmMDQyNDViYWJjMzMzYTU2ZTkwZmE1Y2VlNWI2ODE0ZGYyYWZkNTE0YzAyZmFkYWM0ODE0OTdiZTM1MDlmMDUwNjI5YTdjYzdjYWZhMWU3MTljOWFjZmY3YmEwODA1MjU3MjczODNjNzcyMmI4YTBhNzk3ZWRkNWM0NDAyYWYwMCIsInQiOjE2OTg5ODA3ODcsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.bpqedx-t6krnz4kxL2jKpxJsI1ZRVmFydnLZOURDCuA/ferns.tar.xz</payload>
+  <tags>plasma,original-product,wallpaper,artwork,cc-by,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Ant-Dark Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1473492</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>95758</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/Ant-Dark-wallpapers/*</installedfile>
+  <id>1473492</id>
+  <releasedate>2021-03-12</releasedate>
+  <summary>Dark wallpaper to match &lt;a href="https://store.kde.org/p/1464332/" target="_blank" rel="nofollow">Ant-Dark&lt;/a> theme</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1473492/294867349f644c3e5e5f8b8c01e0966b8f7503ca847cf551a83d99749c0598e8c5f41.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1473492/294867349f644c3e5e5f8b8c01e0966b8f7503ca847cf551a83d99749c0598e8c5f41.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTU1ODA5OTkiLCJvIjoiMSIsInMiOiJkZDYyNGViYzI0NDEwNWIzMTJlMDQ4OWU3OWQxOWFkMGM1OWNmMmFlYjgyZTdhNzRhYWJlNzg4MzBlMWUyZWQxNTg3ZGNkNjIyM2Y3ZmUwN2QxMzkzOTZlMTVkMzUxYjVhOGYwMDRjNDRmNDQ1OTljZTJlMDZhZjcwOGQzMTM1NCIsInQiOjE2OTg5ODA4MTEsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU2LjE3MiJ9.LKRtUFmgD4O_RiBu0z6UiUARRggkcdHxKzbapKwj8Hw/Ant-Dark-wallpapers.tar.xz</payload>
+  <tags>kde,wallpaper,cc-by-sa,plasma,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Colored-Smoke</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2076498</homepage>
+  <licence></licence>
+  <version>1.0.4</version>
+  <rating>50</rating>
+  <downloads>4986</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/Colored-Smoke/*</installedfile>
+  <id>2076498</id>
+  <releasedate>2023-10-01</releasedate>
+  <summary>Colored-Smoke</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2076498/demoo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2076498/demoo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTYxOTYwMTQiLCJvIjoiMSIsInMiOiIyNDU5NWJmYWEzMjZiYWQxMTI3NTA5OTU1OGZkYTQ3ZTJlN2Q0MGZiZDY0YzU5NDVmYTU4NDQxZDE0OGI4M2VjM2YxNTEyNzI4NDY3YjhiODk2NjU4NDQyNGQzZDEzOGJkODY1ZWE3NDFiNGU5Zjc2ODI3Zjg3MmY5MzJiN2QyNCIsInQiOjE2OTg5ODA3ODAsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.6Bgl8IpjD5Q0z70q1Brj0Q1WKQBOUzXo_z8OjMH-Zgo/Colored-Smoke.tar.xz</payload>
+  <tags>kde,artwork,cc-by-sa,wallpaper,plasma,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Windows-Eleven-Dinamic</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1999772</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>4064</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/Windows-Eleven-Dinamic/*</installedfile>
+  <id>1999772</id>
+  <releasedate>2023-10-24</releasedate>
+  <summary>only for version 5.27 or higher</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1999772/screenshot.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1999772/screenshot.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTgxNzY4NDgiLCJvIjoiMSIsInMiOiJhOTFjNjA2YjEwMTYyNzllYmYwMzExMGY0MWIyZDEyNTk1M2EyMjkzMTRmOTM5NzFjNzNlYWIyYzM0YzFiZjBhYjE1ODUxMzM5YjY2NDViYzAyNTI2NTQ5OGIzYmM1OWM1Mjg0NjM5NjI2ZGNhZGVlYTM1NjIzNTZhODY4OTAyZSIsInQiOjE2OTg5ODA3NDgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.DiHaDf9UpbYHIui0-Sat1o-mrMo8oVTeAePhRun0dPo/Windows-Eleven-Dinamic.tar.xz</payload>
+  <tags>wallpaper,kde,artwork,agplv3,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="311">
+  <name>We10XOS Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1368857</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>37090</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/CjlwzG-We10XOS/*</installedfile>
+  <id>1368857</id>
+  <releasedate>2022-07-18</releasedate>
+  <summary>We10XOS kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>We10XOS-dark Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1368860/" target="_blank" rel="nofollow">https://www.pling.com/p/1368860/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>We10XOS-light Global Theme&lt;/strong>:&lt;a href="https://www.pling.com/p/1568549/" target="_blank" rel="nofollow">https://www.pling.com/p/1568549/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1368857/1ea7faf2f550d3cbb7b4b6c00ec84d27a6681.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1368857/1ea7faf2f550d3cbb7b4b6c00ec84d27a6681.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTgxNjI0MjYiLCJvIjoiMSIsInMiOiI4NTk5OGNkYzAyYWE1OTdkMTU3M2EzZGYyNGVjMzMzYjc5YThmNzM0NzQ3NzAzNmQzYTk1ZDc3OWNmNGVhNzU5ZjhkYzFiMjgxYjcyNWI3YWY5Mzg5N2M5MTVjMGFmZjk1MDdkNzBjYzNlODM5YWRhZDU2NzI5NmFlY2QxODY4YSIsInQiOjE2OTQ4Mzc1ODAsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.VWawQ2cIxbo6iFZITKnbIhfccCIU55zRA7IyAroWEow/We10XOS.zip</payload>
+  <tags>gplv3,original-product,windows,wallpaper,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>windows eleven 02</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1978301</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>39615</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/Windows-Eleven-02/*</installedfile>
+  <id>1978301</id>
+  <releasedate>2023-01-28</releasedate>
+  <summary>wallpaper original of windows </summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1978301/screenshot-20230127-221047.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1978301/screenshot-20230127-221047.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NzQ4Nzk2NjMiLCJvIjoiMSIsInMiOiI4NDBlNjhhMDJmZDE4OGE1ZWI1MDA3NjQyZTEyODA5MjM4MDZmMmYxYzE1MGVkNWViY2ZlN2M0MTgyNzZmZmIyNzU0YjI2N2NkOTIyMjEzMDEyNGM0NTQ2MjdmMmI5ZTU5MzBlNjkyZGZmMmRjMTEwY2NjNTM3MDM0NGQ3MzVkYyIsInQiOjE2OTg5ODA3MjUsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.VjvpIAdXrZ_sX4vb5SRFTt4N1aji0Z2WL43fwSfdicA/Windows-Eleven-02.tar.xz</payload>
+  <tags>wallpaper,plasma,kde,artwork,cc0</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Umlilo abstract</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2079222</homepage>
+  <licence></licence>
+  <version>1.0.8</version>
+  <rating>50</rating>
+  <downloads>4530</downloads>
+  <installedfile>/home/ayush/.local/share/wallpapers/umlilo-abstract/*</installedfile>
+  <id>2079222</id>
+  <releasedate>2023-10-22</releasedate>
+  <summary>umlilo abstract</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2079222/de.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2079222/de.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTc5NTE0MjEiLCJvIjoiMSIsInMiOiIwMWJlODBkMzkzNzZhNzgwNzU0Y2UyY2QyNWEwZjU4MGI5Yjc1OWU0MDk3NmRhOTE2YTlmYmI3YWYxMzhjZTgyYTdhZThkYWU1MTU4MTlkZjdiNWVmOWI1OWQ3ZjU1NmVhMDQyM2UyM2M5ODY1NzEyZDk1YTI1YzRmMDMxOWYxMiIsInQiOjE2OTg5ODA3NzQsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.XvNAomgl3ef_n6oUOlKPEKuwd0zTS3h_XO_B8MxJk6w/umlilo-abstract.tar.xz</payload>
+  <tags>fire,fuego,artwork,cc-by,kde,absdtract,original-product,plasma,wallpaper,windows,windows12</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Ant-Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1464285</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>67</rating>
+  <downloads>40551</downloads>
+  <installedfile>/home/ayush/.local/share/color-schemes/Ant-Dark.colors</installedfile>
+  <id>1464285</id>
+  <releasedate>2021-12-29</releasedate>
+  <summary>A dark and modern theme with awesome colors for plasma&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a href="https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md" target="_blank" rel="nofollow">here&lt;/a>.&lt;br />
+&lt;br />
+&lt;strong>Suggested setings:&lt;/strong> &lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464317" target="_blank" rel="nofollow">Ant-Dark Kvantum theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464279" target="_blank" rel="nofollow">Ant-Dark Konsole theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464321/" target="_blank" rel="nofollow">Ant-Dark Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464309/" target="_blank" rel="nofollow">Ant-Dark Aurorae theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464285/" target="_blank" rel="nofollow">Ant-Dark colorscheme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1464300/" target="_blank" rel="nofollow">Ant-Dark sddm&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Important&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong> Wallpaper in screenshot &lt;a href="https://www.pexels.com/photo/foamy-wave-of-ocean-washing-rocky-stone-5525886/" target="_blank" rel="nofollow">here&lt;/a>&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>Icons showed &lt;a href="https://drive.google.com/file/d/1-lyzP0rAqc3ycprxyOYF0YvJQ0M0vCfv/view?usp=sharing" target="_blank" rel="nofollow">here&lt;/a> &lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1464285/44d806b23f058b59797afc74dc88d07daafc1735daf4ed0e9f4167cd5597a335a60f1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1464285/44d806b23f058b59797afc74dc88d07daafc1735daf4ed0e9f4167cd5597a335a60f1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDA4MTkzMjciLCJvIjoiMSIsInMiOiIyOTFkZDA3YzU1MjQ2ZTdlNTcxNGFjNzlhMmJjY2EwMmRmZThmZDBkMWFiMTRmZjgxZTJkZTQ3NGY1NjExNWQ3OGVhOTU0MjdjY2IwNDg3NmViZDBkNDc0NmRiN2U1NjRlMmM0YzliOWM2MjEyZmRkNmZlMGU0ZDkwYjRiMzE4NSIsInQiOjE2OTg5ODA3NjQsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.RxJSxBFiTGIK5ACmigN8n204mj_qCO9yC2YRT8el8Cg/Ant-Dark.colors</payload>
+  <tags>kde,linux,gplv3,colorscheme,theme,unix,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294011</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>280325</downloads>
+  <installedfile>/home/ayush/.local/share/color-schemes/Sweet.colors</installedfile>
+  <id>1294011</id>
+  <releasedate>2021-07-28</releasedate>
+  <summary>Color scheme for &lt;a href="https://www.opendesktop.org/p/1294013/" target="_blank" rel="nofollow">Sweet&lt;/a> theme&lt;br />
+&lt;br />
+Settings in screenshot:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet Kvantum theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1286856/" target="_blank" rel="nofollow">Sweet aurorae theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294174/" target="_blank" rel="nofollow">Sweet Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to the &lt;a href="https://addons.mozilla.org/es/firefox/addon/sweet-dark/" target="_blank" rel="nofollow">sweet-dark&lt;/a> extension for a better looking or try my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1294011/a319d50cbeb1186fd04564bf38b43bfbc8341.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1294011/a319d50cbeb1186fd04564bf38b43bfbc8341.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjc1MDMwNDIiLCJvIjoiMSIsInMiOiJhOTQ5MzMwY2QxODI5YjBjZmM1MGZiZjM5NTkxZTEwNTMxZmJkZWUyZDE1YjgyYmZmNzE0NDJkMjM0MWRlM2U1MjljNDIyMzI1ZDlmM2I1ZTc0NDI1OTc2NmIyMjJlNTAwMGY3YWI4YzVhOTQxZGQ1YThlMjhjNGRiMzYxZDM2NCIsInQiOjE2OTQ4Mzc1NTgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.vDoXZ0bBo2V17ht-0cTzcTdITU_-I__VAYyJoCdEe2c/Sweet.colors</payload>
+  <tags>gplv3,colorscheme,unix,theme,plasma,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Win11OS-light Color Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1563784</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>52</rating>
+  <downloads>33113</downloads>
+  <installedfile>/home/ayush/.local/share/color-schemes/Win11OSLight.colors</installedfile>
+  <id>1563784</id>
+  <releasedate>2022-08-22</releasedate>
+  <summary>Win11OS-light kde is a dark clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Plasmoids for KDE&lt;/strong>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+Main launcher:OnzeMenu/Menu 11&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Global Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1568198/" target="_blank" rel="nofollow">https://www.pling.com/p/1568198/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Plasma Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563794/" target="_blank" rel="nofollow">https://www.pling.com/p/1563794/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Sddm Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563791/" target="_blank" rel="nofollow">https://www.pling.com/p/1563791/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Aurorae Theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1563782/" target="_blank" rel="nofollow">https://www.pling.com/p/1563782/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Kvantum &lt;/strong>:&lt;a href="https://www.pling.com/p/1563789/" target="_blank" rel="nofollow">https://www.pling.com/p/1563789/&lt;/a>&lt;br />
+&lt;br />
+&lt;strong>Win11OS-light Wallpaper &lt;/strong>:&lt;a href="https://www.pling.com/p/1563780/" target="_blank" rel="nofollow">https://www.pling.com/p/1563780/&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong>Win11 icon theme &lt;/strong>:&lt;a href="https://www.pling.com/p/1546069/" target="_blank" rel="nofollow">https://www.pling.com/p/1546069/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1563784/screenshot-20220823-010844.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1563784/screenshot-20220823-010844.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjExOTQxNjIiLCJvIjoiMSIsInMiOiI3NWVlMzM5ZGMwYTE5YmRmMDQ4NjYxMzMxYjNiOWJkMGFhYmYwODczYzI5Yzc0ZWY2N2VkY2E0YjU0YzJkOWE3ZjgwZjlhNjk5MmI2NTQ1YTRmMGMwYzJmNDBlNmUxOGRmZTkxZThhNTIyNjY1MWMyOTI4NDAzOGI4NWE5ZTE1ZCIsInQiOjE2OTg5ODExNDMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU2LjgwIn0.pE6fu7u0Zh0q_4UvY7ppCr0Q0HHrkBLvkJTKBFJIgwU/Win11OSLight.zip</payload>
+  <tags>linux,kde,original-product,plasma,unix,theme,gplv3,colorscheme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>AbsoluteDark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2083780</homepage>
+  <licence></licence>
+  <version>1.0.3</version>
+  <rating>50</rating>
+  <downloads>4948</downloads>
+  <installedfile>/home/ayush/.local/share/color-schemes/AbsoluteDark.colors</installedfile>
+  <id>2083780</id>
+  <releasedate>2023-10-20</releasedate>
+  <summary>color scheme with very intense blacks and blue accent</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2083780/preview.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2083780/preview.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTc3ODEzMTUiLCJvIjoiMSIsInMiOiI3ZmZlZDc2ZDgwMzZlZjgzZmQ0MzVjN2I5NWUwNWEzOTMwMTJhMWVmMGMwYjM2YzI1NDc3ODc5OWM4NDUzNzdjYzRhNWE5NzM1YTFlYjZiZjk1MTUwZjdkNDk2NDc5ODY2ZGE4ODQwNjE0MGYzN2VmNDRkOTI0Mzg2MTRlZWMxNyIsInQiOjE2OTg5ODA2OTQsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.gahDVguuEZkEG4DlTTj54M_CgeHiK6KjYi96NH67JcQ/AbsoluteDark.tar.xz</payload>
+  <tags>colorscheme,agplv3,plasma,theme,unix,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Sweet Mars KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1393486</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>64</rating>
+  <downloads>260447</downloads>
+  <installedfile>/home/ayush/.local/share/color-schemes/Sweet-Mars.colors</installedfile>
+  <id>1393486</id>
+  <releasedate>2021-08-05</releasedate>
+  <summary>Sweet Mars color scheme&lt;br />
+&lt;br />
+Settings in screenshot:&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1294013/" target="_blank" rel="nofollow">Sweet-Mars Kvantum theme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.opendesktop.org/p/1393497/" target="_blank" rel="nofollow">Sweet-Mars aurorae theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1393498/" target="_blank" rel="nofollow">Sweet,Mars Plasma theme&lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1297008/" target="_blank" rel="nofollow">Sweet-Mars Konsole color scheme &lt;/a>&lt;br />
+&lt;br />
+&lt;a href="https://www.pling.com/p/1305251/" target="_blank" rel="nofollow">Candy icons&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #2ED5FF;">&lt;strong>- Note -&lt;/strong>&lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #8A2387;">F&lt;/span>&lt;span style="color: #A92E5A;">i&lt;/span>&lt;span style="color: #C93A2D;">r&lt;/span>&lt;span style="color: #E84600;">e&lt;/span>&lt;span style="color: #EB540B;">f&lt;/span>&lt;span style="color: #EE6216;">o&lt;/span>&lt;span style="color: #F17021;">x&lt;/span>: if you are a firefox user, you can give a chance to  my complete &lt;a href="https://github.com/EliverLara/firefox-sweet-theme" target="_blank" rel="nofollow">&lt;strong>&lt;span style="color: #7F00FF;">F&lt;/span>&lt;span style="color: #8400FF;">i&lt;/span>&lt;span style="color: #8900FF;">r&lt;/span>&lt;span style="color: #8E00FF;">e&lt;/span>&lt;span style="color: #9300FF;">f&lt;/span>&lt;span style="color: #9800FF;">o&lt;/span>&lt;span style="color: #9D00FF;">x&lt;/span>&lt;span style="color: #A300FF;">-&lt;/span>&lt;span style="color: #A800FF;">S&lt;/span>&lt;span style="color: #AD00FF;">w&lt;/span>&lt;span style="color: #B200FF;">e&lt;/span>&lt;span style="color: #B700FF;">e&lt;/span>&lt;span style="color: #BC00FF;">t&lt;/span>&lt;span style="color: #C200FF;">-&lt;/span>&lt;span style="color: #C700FF;">T&lt;/span>&lt;span style="color: #CC00FF;">h&lt;/span>&lt;span style="color: #D100FF;">e&lt;/span>&lt;span style="color: #D600FF;">m&lt;/span>&lt;span style="color: #DB00FF;">e&lt;/span>&lt;/strong> &lt;/a>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1393486/64308f5f8222946f0cc9d786c63d987cf281.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1393486/64308f5f8222946f0cc9d786c63d987cf281.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjgxOTc3MzAiLCJvIjoiMSIsInMiOiJiYjllNzNlZTdiNGQwMmZhNWNhM2IwOTUxNWY5ZjE0Njc2OWYzZDcyZTBkZGFlZTc0NDI2ZDg2ODEzYmExNjI2YjI0ZWE3ZDI1MDVmNDhiYTMyNDFiN2Q2YmVlMGU3ZjNlNmZjNTg2ZmI2OGZiZmQxYWVjYmM1ZGEwM2YyOTgwYiIsInQiOjE2OTQ4Mzc2MTksInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.rW03nS6MwSW0OMT4gZAasvTCbW_nBW2h0pmfOTOz3dA/Sweet-Mars.colors</payload>
+  <tags>kde,linux,unix,theme,colorscheme,gplv3,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

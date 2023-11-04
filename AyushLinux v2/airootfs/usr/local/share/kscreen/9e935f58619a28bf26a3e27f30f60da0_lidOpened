@@ -1,0 +1,52 @@
+[
+    {
+        "enabled": true,
+        "id": "a5119a5b030b9c6ec9473a039382a250",
+        "metadata": {
+            "fullname": "xrandr-AU Optronics",
+            "name": "eDP-1"
+        },
+        "mode": {
+            "refresh": 60.16400146484375,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "priority": 2,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1.25,
+        "vrrpolicy": 0
+    },
+    {
+        "enabled": true,
+        "id": "303142f775be8cae1f27cdcf84b09d7b",
+        "metadata": {
+            "fullname": "xrandr-Acer Technologies-EB321HQ A-1323006513E00",
+            "name": "HDMI-A-1"
+        },
+        "mode": {
+            "refresh": 50,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 1536,
+            "y": 0
+        },
+        "priority": 1,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 0
+    }
+]

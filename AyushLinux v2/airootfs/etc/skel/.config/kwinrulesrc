@@ -1,0 +1,22 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[9ab26012-3446-4f8d-82ce-4c3f9c5cd16c]
+Description=Copy of Window settings for code
+clientmachine=localhost
+title=Welcome - VS Code - Visual Studio Code
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=code
+wmclassmatch=1
+
+[ee643536-c151-4189-b7d9-ae7660a06525]
+Description=Window settings for code
+clientmachine=localhost
+title=Welcome - VS Code - Visual Studio Code
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=code
+wmclassmatch=1

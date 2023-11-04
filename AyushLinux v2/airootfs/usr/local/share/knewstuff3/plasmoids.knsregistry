@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Present Windows Button</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Zren</author>
+  <homepage>https://store.kde.org/p/1181039</homepage>
+  <licence></licence>
+  <version>9</version>
+  <rating>81</rating>
+  <downloads>92433</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/plasmoids/com.github.zren.presentwindows</installedfile>
+  <id>1181039</id>
+  <releasedate>2020-04-24</releasedate>
+  <summary>Trigger the Present Windows desktop effect's shortcut with a click.&lt;br />
+&lt;br />
+It essentially runs the following command on click.&lt;br />
+qdbus org.kde.kglobalaccel /component/kwin invokeShortcut "ExposeAll"&lt;br />
+&lt;br />
+You can also configure it to toggle the desktop grid.&lt;br />
+&lt;br />
+v5 has a Unity 7 style so that it looks better with the Unity Ambiance desktop theme.&lt;br />
+&lt;br />
+v9 has support for the Parachute KWin Script (&lt;a href="https://store.kde.org/p/1370195/" target="_blank" rel="nofollow">https://store.kde.org/p/1370195/&lt;/a>) which can be install via:&lt;br />
+System Settings &amp;gt; Window Management &amp;gt; KWin Scripts &amp;gt; Get New Scripts &amp;gt; Search for "Parachute" &amp;gt; Install</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/39/56/1181039/39ab5796b4030bb0c531d31b4e66ce365a1f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/39/56/1181039/39ab5796b4030bb0c531d31b4e66ce365a1f.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODc3NTkyMTQiLCJvIjoiMSIsInMiOiJkYzYxNTMzNDg2ZjgyMTAyZmVkYWRiNWEwMTQ5OTVkZjBmZjg1Y2M4NTU5Y2M0MDY2Nzc0MjlhNWNjYzUyYjBjOWI4ZDIxYzdhNjE0MjFlNjg4YWM0NjhmNGZkZmMyNWMyODY3NGI4ODUwMTk3ZDM0MzMxMWM5MmY0ZGQ0ZjNiZSIsInQiOjE2OTg5ODA3NDMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.aVOsPxzWzB-rAXYQf7hU3bFsUcFQNepcF-UVcBhinT4/presentwindows-v9.plasmoid</payload>
+  <tags>extension,gplv2-later,unix,linux,kde,widget,plasma,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>OnzeMenu 11</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1545530</homepage>
+  <licence></licence>
+  <version>0.4</version>
+  <rating>84</rating>
+  <downloads>49575</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/plasmoids/OnzeMenu</installedfile>
+  <id>1545530</id>
+  <releasedate>2023-04-29</releasedate>
+  <summary>&lt;span style="text-decoration: underline;">&lt;strong>Onze menu for plasma.  (11) &lt;/strong>&lt;/span> &lt;br />
+&lt;br />
+Configurable grid of application icons and recent files.&lt;br />
+&lt;br />
+&lt;strong>Based on &lt;/strong>&lt;br />
++ Ditto Menu &lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Installation&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Download the package and execute the following command from your terminal (for install or upgrade). &lt;br />
+&lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--install&amp;nbsp;OnzeMenu.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;strong>or&lt;/strong> &lt;br />
+&lt;code>&lt;span style="color: #000000">
+﻿plasmapkg2&amp;nbsp;--upgrade&amp;nbsp;OnzeMenu.tar.gz&lt;/span>
+&lt;/code>&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>Use&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
++ Right click on panel &amp;gt; add widgets &amp;gt; search "OnzeMenu" &amp;gt; Double click on OnzeMenu&lt;br />
+&lt;strong>or&lt;/strong>&lt;br />
++ Right click on another menu &amp;gt; Show alternatives &amp;gt; Select Onze Menu&lt;br />
+&lt;br />
+&lt;span style="color: #00aa7f;">&lt;span style="text-decoration: underline;">&lt;strong>you can try my other works&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+&lt;a href="https://store.kde.org/p/1327723/" target="_blank" rel="nofollow">Gruvbox theme&lt;/a> &lt;br />
+&lt;a href="https://store.kde.org/p/1327331/" target="_blank" rel="nofollow">PopKde Light &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1327332/" target="_blank" rel="nofollow">PopKde Dark &lt;/a>&lt;br />
+&lt;a href="https://store.kde.org/p/1313728/" target="_blank" rel="nofollow">Pear Dark (animated theme) &lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+&lt;span style="color: #17B529;">&lt;span style="text-decoration: underline;">&lt;strong>Coffee&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+If you enjoy my content, please consider supporting what I do:&lt;br />
+&lt;br />
+&lt;img src="https://raw.githubusercontent.com/adhec/plasmaX/master/coffee.png" alt="coffee" />&lt;br />
+&lt;br />
+Share your ❤️ Buy me a ☕ from &lt;a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=V9Q8MK9CKSQW8&amp;amp;source=url" target="_blank" rel="nofollow">Paypal&lt;/a> or &lt;a href="https://liberapay.com/_adhe_/donate" target="_blank" rel="nofollow">Liberapay&lt;/a> and comment.&lt;br />
+&lt;br />
+Have fun ;)</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1545530/logl.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1545530/logl.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODI3NDMyODEiLCJvIjoiMSIsInMiOiI5YTdmM2I2YmQ4ZjBiZmZhMTQwMzNhMTdjNjk4OTgyZTMxMjZhN2VlY2M0YzI1MThlMWZhYzIyY2QxOWViYTBiZjkxOTNiZmIzZGYzYjgzMWQ1NTYwMDg0ZjBkZmU4MTdhMGM5NDM1NWUyNjU3MzNhYzNiZTJiN2NkY2U4NWRkZSIsInQiOjE2OTg5ODA3MzcsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.6gQwahzXzwGqcksZYc7r5d61aYilkBx9hQL2590eVzc/OnzeMenu.tar.gz</payload>
+  <tags>extension,plasma,plasma##majorversion=5,original-product,unix,cc-by-sa,kde,menu,linux,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="398">
+  <name>Andromeda Launcher</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/2048016</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>59</rating>
+  <downloads>36114</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/plasmoids/AndromedaLauncher</installedfile>
+  <id>2048016</id>
+  <releasedate>2023-06-18</releasedate>
+  <summary>A simple Launcher for KDE Plasma based on the awesome &lt;a href="https://store.kde.org/p/1720532" target="_blank" rel="nofollow"> MMcK Launcher&lt;/a> created to fit the &lt;a href="https://store.kde.org/p/2036836/" target="_blank" rel="nofollow"> Andromeda theme for KDE&lt;/a>&lt;br />
+&lt;br />
+Required Fonts:&lt;br />
+&lt;a href="http://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts/blob/master/SF-Pro-Text-Semibold.otf" target="_blank" rel="nofollow">SF Pro Text &lt;/a>&lt;br />
+</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/2048016/preview.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/2048016/preview.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODcxMzEyMDgiLCJvIjoiMSIsInMiOiI1ZTc1OTU4NGRiMzllMjEyYjkwMDJjOTMzM2ViYTk2ZWMwZDI1NDk3YzI5YWExNzlkZTM1MGM1Y2YyMGQzZjlkZDZkZDcwZTk5MTk5NzEzYjdlZTQ4NzUxNTc3ZDhjZWE1OWRlYjE0YzBmZWY5MmE5MWM3NzFhNmFjMDE1N2YzMCIsInQiOjE2OTQ4Mzc2NDMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.uPa2G9nYV9C7UxOcx-G6gNFxeW9G95tqEDWg-dSEBYc/AndromedaLauncher.tar.xz</payload>
+  <tags>widget,unix,extension,gplv2-later,plasma,plasma##majorversion=5,linux,menu,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="420">
+  <name>Minimal Musica Widget</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2095549</homepage>
+  <licence></licence>
+  <version>1.0.1</version>
+  <rating>50</rating>
+  <downloads>6104</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/plasmoids/org.kde.MinimalMusic</installedfile>
+  <id>2095549</id>
+  <releasedate>2023-10-18</releasedate>
+  <summary>.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2095549/ddsdf.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2095549/ddsdf.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTc1OTQ4NDgiLCJvIjoiMSIsInMiOiJmZjkxY2MxOGI0MGM0YjQ5NTliMzkxYzIyMTMwN2FmYWQzYTU1ZjY3ZmJhZmU3OTQ2NmI3ODc0YmFkYzQwNDMxOTY3NjM0MjZkMTFhNTg0YjRjNTg1MDEzMTYzNTI1NTVmZDJhOWNiOWY1MGY4NjBhZWMyNWZiN2U1MGJiYTU1OCIsInQiOjE2OTg5ODA3OTMsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.WTvuvwKW_t21watUqq02G6VylVIiG5z_zVdpFgOQ5bw/org.kde.MinimalMusic.tar.xz</payload>
+  <tags>extension,linux,multimedia,kde,unix,widget,agplv3,plasma,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="463">
+  <name>Bubble Date</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/2099193</homepage>
+  <licence></licence>
+  <version>0.2.1</version>
+  <rating>43</rating>
+  <downloads>4363</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/plasmoids/org.kde.Date.Bubble</installedfile>
+  <id>2099193</id>
+  <releasedate>2023-10-26</releasedate>
+  <summary>simple plasmoid showing date</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/2099193/bubledate.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/2099193/bubledate.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTgzMjY3MTciLCJvIjoiMSIsInMiOiJjNzQ2Yzc4MTE0MjJjM2UyMDY2NWNmYTE5ZDRlY2U1YjNmZGE0NjE0YzhlNmYwOWQ0MmJhODMxNDkxZWM2NDU5YTExNmJmNGQ2YzRhYjUxNDkwYWM5YzA1Y2Y2YzI0MDBjNTIwOWQxZTRiZTlmMTcyMDgxM2U3NWRjNzI2ZjZiZiIsInQiOjE2OTg5ODA3OTksInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.Q5qsJAfyA_rLG7vsHzPM6HWAZdPMGQ0ecweAfl-kEyQ/org.kde.Date.Bubble.tar.xz</payload>
+  <tags>widget,kde,linux,extension,agplv3,plasma,plasma##majorversion=5,original-product,calendar,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

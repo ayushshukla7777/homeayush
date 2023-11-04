@@ -1,0 +1,19 @@
+{
+    "id": "303142f775be8cae1f27cdcf84b09d7b",
+    "metadata": {
+        "fullname": "xrandr-Acer Technologies-EB321HQ A-1323006513E00",
+        "name": "HDMI-A-1"
+    },
+    "mode": {
+        "refresh": 50,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 0
+}

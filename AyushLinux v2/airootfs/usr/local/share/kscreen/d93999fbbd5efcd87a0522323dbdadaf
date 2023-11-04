@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": true,
+        "id": "a5119a5b030b9c6ec9473a039382a250",
+        "metadata": {
+            "fullname": "xrandr-AU Optronics",
+            "name": "eDP-1"
+        },
+        "mode": {
+            "refresh": 60.16400146484375,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "priority": 1,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1.25,
+        "vrrpolicy": 0
+    }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="155">
+  <name>Dilbert</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mfuchs</author>
+  <homepage>https://store.kde.org/p/1080453</homepage>
+  <licence></licence>
+  <version>1.8</version>
+  <rating>68</rating>
+  <downloads>15072</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/comics/dilbert</installedfile>
+  <id>1080453</id>
+  <releasedate>2020-11-08</releasedate>
+  <summary>&lt;a href="http://www.dilbert.com/" target="_blank" rel="nofollow">Dilbert&lt;/a> plugin for plasma comic.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/11/01/81/1080453/ba4eee7de782093ab5c23d0ac55fd085fe09.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/11/01/81/1080453/ba4eee7de782093ab5c23d0ac55fd085fe09.jpg</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDQ4NTc4MzUiLCJvIjoiMSIsInMiOiI1MTU4YTM1MjQ5MGQ2ZGVlNDZiNTIwNTg0ODg5MjdiNTFmNWMzMjkzNDM0YjllMjgzM2E0NGFiOGZmYjUyOWJiNjQ3ZWVjM2ZkMzUxY2UyMTkwMjQyMTBmNGFhMjBkZTk2MDhmMmI4NmI2NzRlYzMyZjQ4YjQ1N2U2NzkzYjFlZSIsInQiOjE2OTQ0MzM0NDYsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTUyLjg1In0.QfU-R3HooAr9z4gX4QkTD31eAOrHuQ7NlkB-u4AIIos/dilbert.comic</payload>
+  <tags>plasma,kde,linux,unix,comic-source,extension</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="155">
+  <name>Calvin and Hobbes [eng]</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>mfuchs</author>
+  <homepage>https://store.kde.org/p/1080451</homepage>
+  <licence></licence>
+  <version>1.9</version>
+  <rating>65</rating>
+  <downloads>12794</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/comics/calvinandhobbes</installedfile>
+  <id>1080451</id>
+  <releasedate>2019-09-24</releasedate>
+  <summary>&lt;a href="http://www.gocomics.com/calvinandhobbes/" target="_blank" rel="nofollow">Calvin and Hobbes&lt;/a> plugin for plasma comic.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/11/01/81/1080451/d82d576019d3fe5462597cdef44f1504ec37.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/11/01/81/1080451/d82d576019d3fe5462597cdef44f1504ec37.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NjkzMjgxNTUiLCJvIjoiMSIsInMiOiJjZmVjYWNiNjA1YzdhYzdmNDBiY2ZmZDdmOGE0MTY5NDY3NThjNjNjNWNkODI0NDlkNWNkNTFkZWEzYmE2NjIwNWNmYzU3YWVkYTE4M2JjZGY4ZDdmZTkyYTY0MTZhMDBhMTAzZWJiZDAzYWI3NmRmN2JiMmIxYWQwNmY2OWM5MyIsInQiOjE2OTQ0MzMzODgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTUyLjg1In0.qPDy3FK9_WNc9GWiKu034ojG5MACC9-CeYxegMl8hWE/calvinandhobbes.comic</payload>
+  <tags>comic-source,extension,plasma,unix,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

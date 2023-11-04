@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>windows-eleven-dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zayronXIO</author>
+  <homepage>https://store.kde.org/p/1984458</homepage>
+  <licence></licence>
+  <version>1.7.2</version>
+  <rating>57</rating>
+  <downloads>1156</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/look-and-feel/windows-eleven-Dark</installedfile>
+  <id>1984458</id>
+  <releasedate>2023-10-24</releasedate>
+  <summary>new global theme with windows 11 Dark appearance, unlike the others available, this one has a script that automates most of the work,&lt;br />
+&lt;br />
+based on the win11OS theme by yeyushengfan258</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/24/01/13/1984458/screenshot-20230208-123140.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/24/01/13/1984458/screenshot-20230208-123140.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTgxNzQ2OTYiLCJvIjoiMSIsInMiOiI2MmViNjAxNjA4ZDM0YmRkMjE4M2ZjYWNhZjlhNTUwNWVlY2M0MmI1YjNkZWQ5YjE5YjcyNDYwMzMyMjE3MmQzYmI5YmFiOTZlYmZjN2FiZTMwZDY2MjdhOTgzYmJkNjcyZTYyNGZjODgwMmIwY2JhYzk3MWU5YTEyMjRkNDgzYyIsInQiOjE2OTg5ODA2ODYsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.g3naJ4tv3-4WR7aorpenjlxtL-195MAJ8e3pvyLrDvY/windows-eleven-Dark.tar.xz</payload>
+  <tags>plasma,unix,theme,agplv3,linux,look-and-feel,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>We10XOS-dark Global Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1368860</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>89</rating>
+  <downloads>80616</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/look-and-feel/com.github.yeyushengfan258.We10XOS-dark</installedfile>
+  <id>1368860</id>
+  <releasedate>2023-09-13</releasedate>
+  <summary>We10XOS-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br />
+&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1368860/9688dd0e9a38a9a64e7e03c3f564a8d6725cae81d70aee1f00e856be721d7f6a0516.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1368860/9688dd0e9a38a9a64e7e03c3f564a8d6725cae81d70aee1f00e856be721d7f6a0516.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTgxNjc2MDMiLCJvIjoiMSIsInMiOiIzOTZjYWIxYTZlZmM0MWIwNWU0NjhjNDIxNzBkNjZhMTZlOGRjZGFlZjk3MzZjZDAxYjFlZDI5NmFlYTQ2MjE1MGFkNjAyMzlkZWQ0MmQ0MDgzYjRiYWRmM2E5ZmQ5MDY2ODk3MjY2MWNiYTk5MzNhMThlYjQ3YzY3ZDYzZDQyMSIsInQiOjE2OTQ4Mzc1NDgsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.qzQBxxnZJJxvWaBjpyIyr6PiOCpaykYbczzFealA9zk/com.github.yeyushengfan258.We10XOS-dark.zip</payload>
+  <tags>unix,theme,kde,look-and-feel,linux,original-product,plasma,gplv3</tags>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="121">
+  <name>Sweet KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1294729</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>90</rating>
+  <downloads>3947</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/look-and-feel/Sweet</installedfile>
+  <id>1294729</id>
+  <releasedate>2023-09-11</releasedate>
+  <summary>A dark and modern theme for Plasma&lt;br />
+&lt;br />
+&lt;h2>&lt;strong>&lt;span style="color: #FF0000;">¡IMPORTANT!&lt;/span>&lt;/strong>&lt;/h2>&lt;br />
+&lt;strong> Hi, if you are really enjoying these themes from me and also from other authors please consider &lt;span> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1294729/d483703068936c1fc6dd22b2956f649be7fc6e3be5e7500729fc0ec9189a0b12ac23.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1294729/d483703068936c1fc6dd22b2956f649be7fc6e3be5e7500729fc0ec9189a0b12ac23.png</previewBig>
+  <payload>https://files03.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ0NzU4MDgiLCJvIjoiMSIsInMiOiIxNjdiYjU2MWI4ODhmYzQ4MTI5ZjI5MjJhMDk5ZDMyMGFjODZiYWVjMzAyYWYyZTA1YmFhNzUzNjIwNDc0NjNlYmJiMDFmOTI2NTAwNWM4MjgwN2IxNGY2ODJhMzIxODg4ODZmN2ZmNDc4Zjk1MjkzNTIyZmFiYTAyZWJhMmM2MSIsInQiOjE2OTQ4Mzc1NTEsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTMwLjE2MiJ9.Yq87XNmJR0PBsAbEi6J1JNfY3FQU-hkEd69mw3S1e3g/Sweet.tar.xz</payload>
+  <tags>plasma,theme,unix,kde,linux,look-and-feel,gplv3</tags>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="121">
+  <name>Ant-Dark KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1464332</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>843</downloads>
+  <installedfile>/home/ayush/.local/share/plasma/look-and-feel/Ant-Dark</installedfile>
+  <id>1464332</id>
+  <releasedate>2023-10-27</releasedate>
+  <summary>A dark theme with awesome vibrant colors for plasma&lt;br />
+&lt;br />
+For better looking please use this theme with  &lt;a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum" target="_blank" rel="nofollow">Kvantum&lt;/a> engine, you can find the official installation instructions &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1464332/44d806b23f058b59797afc74dc88d07daafc08ec3ec18bf10b7254e13c6fd0c80e9a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1464332/44d806b23f058b59797afc74dc88d07daafc08ec3ec18bf10b7254e13c6fd0c80e9a.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTg0NDM5NzkiLCJvIjoiMSIsInMiOiI4ZWJkZTU0OWNlMzdmZmJhOTYwZmRhMzc4ODE3Y2UyNzBhMTgwYjA2M2YyOTczM2VjZDJlMmFhYjQ5NjU0MTM1ZTk5OTQyNjhlOGU5ZmY5ZTVjZGI0MjQ4ZTIzNjc3YTcwNDk4MTlmYzUxOTA0N2Q4NTVlZTc2MWJlZjRiYzZkYiIsInQiOjE2OTg5ODA3NTcsInN0ZnAiOm51bGwsInN0aXAiOiIxNTIuNTguMTU3LjIyNSJ9.-lr4iIIPEjfk1HapeS42hDyS0vkR1CNLlo12dXI0ezg/Ant-Dark.tar.xz</payload>
+  <tags>gplv3,unix,theme,kde,look-and-feel,linux,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
