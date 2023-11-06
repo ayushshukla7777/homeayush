@@ -1,0 +1,14 @@
+[MainWindow]
+1536x864 screen: Height=700
+1536x864 screen: Width=1020
+1536x864 screen: Window-Maximized=true
+1920x1080 screen: Height=840
+1920x1080 screen: Width=1224
+1920x1080 screen: XPosition=355
+1920x1080 screen: YPosition=140
+2 screens: Height=700
+2 screens: Width=1020
+HDMI-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABMgAAANIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
