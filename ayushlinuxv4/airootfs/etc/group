@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:999:ayush
+wheel:x:998:ayush
+uucp:x:987:ayush
+ayush:x:1000:
